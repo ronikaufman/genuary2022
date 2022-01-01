@@ -23,7 +23,7 @@ function draw() {
   for (let x = margin; x < width-margin; x += s) {
     for (let y = margin; y < height-margin; y += s) {
       let d = dist(x+s/2, y+s/2, width/2, height/2);
-      let theta = atan2(y+s/2-height/2,x+s/2-width/2);
+      let theta = atan2(y+s/2 - height/2, x+s/2 - width/2);
       let r = spiral(d, theta, a1, b1, c1);
       let g = spiral(d, theta, a2, b2, c2);
       let b = spiral(d, theta, a3, b3, c3);
@@ -34,5 +34,5 @@ function draw() {
 }
 
 function spiral(d, theta, a, b, c) {
-  return map(sin(theta*b + d/a + c), -1, 1, 0, 255)*(d<50?sqrt(d/50):1);
+  return map(sin(theta*b + d/a + c), -1, 1, 0, 255) * (d < 50 ? sqrt(d/50) : 1);
 }
