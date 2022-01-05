@@ -23,6 +23,7 @@
 ### JAN.5
 > Destroy a square.
 
+<img src="./JAN01-10/JAN05/JAN05_1.png" width="200"/> <img src="./JAN01-10/JAN05/JAN05_2.png" width="200"/> <img src="./JAN01-10/JAN05/JAN05_3.png" width="200"/> <img src="./JAN01-10/JAN05/JAN05_4.png" width="200"/>
 
 ### JAN.6
 > Trade styles with a friend.
@@ -126,4 +127,3 @@
 
 ### JAN.31
 > Negative space.
-
