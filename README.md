@@ -28,6 +28,7 @@
 ### JAN.6
 > Trade styles with a friend.
 
+<img src="./JAN01-10/JAN06/JAN06_1.png" width="200"/> <img src="./JAN01-10/JAN06/JAN06_2.png" width="200"/> <img src="./JAN01-10/JAN06/JAN06_3.png" width="200"/> <img src="./JAN01-10/JAN06/JAN06_4.png" width="200"/>
 
 ### JAN.7
 > Sol LeWitt Wall Drawing.
