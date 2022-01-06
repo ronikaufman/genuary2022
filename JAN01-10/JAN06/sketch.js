@@ -5,7 +5,7 @@ JAN.6 "Trade styles with a friend."
 By Roni Kaufman
 https://ronikaufman.github.io
 
-Inspired by Bent (https://www.artblocks.io/project/214)
+Inspired by ippsketch's Bent (https://www.artblocks.io/project/214)
 */
 
 let colors = ["#ffcc4d", "#f5b800", "#56a1c4", "#4464a1", "#ee726b", "#df5f50"];
