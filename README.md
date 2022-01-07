@@ -33,6 +33,7 @@
 ### JAN.7
 > Sol LeWitt Wall Drawing.
 
+<img src="./JAN01-10/JAN07/JAN07_1.png" width="200"/> <img src="./JAN01-10/JAN07/JAN07_2.png" width="200"/> <img src="./JAN01-10/JAN07/JAN07_3.png" width="200"/> <img src="./JAN01-10/JAN07/JAN07_4.png" width="200"/>
 
 ### JAN.8
 > Single curve only.
