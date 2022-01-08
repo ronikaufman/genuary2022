@@ -38,6 +38,7 @@
 ### JAN.8
 > Single curve only.
 
+<img src="./JAN01-10/JAN08/JAN08_1.png" width="200"/> <img src="./JAN01-10/JAN08/JAN08_2.png" width="200"/> <img src="./JAN01-10/JAN08/JAN08_3.png" width="200"/> <img src="./JAN01-10/JAN08/JAN08_4.png" width="200"/>
 
 ### JAN.9
 > Architecture.
