@@ -43,6 +43,7 @@
 ### JAN.9
 > Architecture.
 
+<img src="./JAN01-10/JAN09/JAN09_1.png" width="200"/> <img src="./JAN01-10/JAN09/JAN09_2.png" width="200"/> <img src="./JAN01-10/JAN09/JAN09_3.png" width="200"/> <img src="./JAN01-10/JAN09/JAN09_4.png" width="200"/>
 
 ### JAN.10
 > Machine learning, wrong answers only.
