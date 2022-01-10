@@ -48,6 +48,7 @@
 ### JAN.10
 > Machine learning, wrong answers only.
 
+<img src="./JAN01-10/JAN10/JAN10_1.png" width="200"/> <img src="./JAN01-10/JAN10/JAN10_2.png" width="200"/> <img src="./JAN01-10/JAN10/JAN10_3.png" width="200"/> <img src="./JAN01-10/JAN10/JAN10_4.png" width="200"/>
 
 ### JAN.11
 > No computer.
