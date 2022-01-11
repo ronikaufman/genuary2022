@@ -53,6 +53,7 @@
 ### JAN.11
 > No computer.
 
+<img src="./JAN11-20/JAN11/JAN11_1.png" width="200"/> <img src="./JAN11-20/JAN11/JAN11_2.png" width="200"/> <img src="./JAN11-20/JAN11/JAN11_3.png" width="200"/> <img src="./JAN11-20/JAN11/JAN11_4.png" width="200"/>
 
 ### JAN.12
 > Packing (squares, circles, any shape…)
