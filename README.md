@@ -58,6 +58,7 @@
 ### JAN.12
 > Packing (squares, circles, any shape…)
 
+<img src="./JAN11-20/JAN12/JAN12_1.png" width="200"/> <img src="./JAN11-20/JAN12/JAN12_2.png" width="200"/> <img src="./JAN11-20/JAN12/JAN12_3.png" width="200"/> <img src="./JAN11-20/JAN12/JAN12_4.png" width="200"/>
 
 ### JAN.13
 > 80x800.
