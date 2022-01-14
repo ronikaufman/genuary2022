@@ -68,6 +68,7 @@
 ### JAN.14
 > Something you’d never make.
 
+<img src="./JAN11-20/JAN14/JAN14_1.png" width="200"/> <img src="./JAN11-20/JAN14/JAN14_2.png" width="200"/> <img src="./JAN11-20/JAN14/JAN14_3.png" width="200"/> <img src="./JAN11-20/JAN14/JAN14_4.png" width="200"/>
 
 ### JAN.15
 > Sand.
