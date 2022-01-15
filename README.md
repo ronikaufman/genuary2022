@@ -73,6 +73,7 @@
 ### JAN.15
 > Sand.
 
+<img src="./JAN11-20/JAN15/JAN15_1.png" width="200"/> <img src="./JAN11-20/JAN15/JAN15_2.png" width="200"/> <img src="./JAN11-20/JAN15/JAN15_3.png" width="200"/> <img src="./JAN11-20/JAN15/JAN15_4.png" width="200"/>
 
 ### JAN.16
 > Color gradients gone wrong.
