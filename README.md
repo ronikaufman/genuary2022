@@ -78,6 +78,7 @@
 ### JAN.16
 > Color gradients gone wrong.
 
+<img src="./JAN11-20/JAN16/JAN16_1.png" width="200"/> <img src="./JAN11-20/JAN16/JAN16_2.png" width="200"/> <img src="./JAN11-20/JAN16/JAN16_3.png" width="200"/> <img src="./JAN11-20/JAN16/JAN16_4.png" width="200"/>
 
 ### JAN.17
 > 3 colors.
