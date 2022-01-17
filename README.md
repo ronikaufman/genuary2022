@@ -83,6 +83,7 @@
 ### JAN.17
 > 3 colors.
 
+<img src="./JAN11-20/JAN17/JAN17_1.png" width="200"/> <img src="./JAN11-20/JAN17/JAN17_2.png" width="200"/> <img src="./JAN11-20/JAN17/JAN17_3.png" width="200"/> <img src="./JAN11-20/JAN17/JAN17_4.png" width="200"/>
 
 ### JAN.18
 > VHS.
