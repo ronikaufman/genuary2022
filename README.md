@@ -88,6 +88,7 @@
 ### JAN.18
 > VHS.
 
+<img src="./JAN11-20/JAN18/JAN18_1.png" width="200"/> <img src="./JAN11-20/JAN18/JAN18_2.png" width="200"/> <img src="./JAN11-20/JAN18/JAN18_3.png" width="200"/> <img src="./JAN11-20/JAN18/JAN18_4.png" width="200"/>
 
 ### JAN.19
 > Use text/typography.
