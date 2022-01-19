@@ -93,6 +93,7 @@
 ### JAN.19
 > Use text/typography.
 
+<img src="./JAN11-20/JAN19/JAN19_1.png" width="200"/> <img src="./JAN11-20/JAN19/JAN19_2.png" width="200"/> <img src="./JAN11-20/JAN19/JAN19_3.png" width="200"/> <img src="./JAN11-20/JAN19/JAN19_4.png" width="200"/>
 
 ### JAN.20
 > Make a sea of shapes.
