@@ -98,6 +98,7 @@
 ### JAN.20
 > Make a sea of shapes.
 
+<img src="./JAN11-20/JAN20/JAN20_1.png" width="200"/> <img src="./JAN11-20/JAN20/JAN20_2.png" width="200"/> <img src="./JAN11-20/JAN20/JAN20_3.png" width="200"/> <img src="./JAN11-20/JAN20/JAN20_4.png" width="200"/>
 
 ### JAN.21
 > Combine two (or more) of your pieces from previous days to make a new piece.
