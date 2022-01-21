@@ -37,15 +37,14 @@ function draw() {
   shapes.filter(BLUR, 5);
 
   background(255);
+  colorMode(HSB);
   noStroke();
-  fill(0, 0, 255);
   let interLines = (height - 2*margin)/64;
   for (let y = margin; y < height - margin; y += interLines) {
+    fill(map(y, margin, height-margin, 200, 215), 100, 100);
     for (let x = margin; x < width - margin; x += 0.5) {
       let mag = shapes.get(x-margin, y-margin)[0]/255;
       let offset = sin(x/4)*interLines/2;
-      colorMode(HSB)
-      fill(map(y, margin, height-margin, 200, 215), 100, 100);
       circle(x, y+offset, 1.5+2*mag);
     }
   }

@@ -103,6 +103,7 @@
 ### JAN.21
 > Combine two (or more) of your pieces from previous days to make a new piece.
 
+<img src="./JAN21-31/JAN21/JAN21_1.png" width="200"/> <img src="./JAN21-31/JAN21/JAN21_2.png" width="200"/> <img src="./JAN21-31/JAN21/JAN21_3.png" width="200"/> <img src="./JAN21-31/JAN21/JAN21_4.png" width="200"/>
 
 ### JAN.22
 > Make something that will look completely different in a year.
