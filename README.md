@@ -108,6 +108,7 @@
 ### JAN.22
 > Make something that will look completely different in a year.
 
+<img src="./JAN21-31/JAN22/JAN22_1.png" width="200"/> <img src="./JAN21-31/JAN22/JAN22_2.png" width="200"/> <img src="./JAN21-31/JAN22/JAN22_3.png" width="200"/> <img src="./JAN21-31/JAN22/JAN22_4.png" width="200"/>
 
 ### JAN.23
 > Abstract vegetation.
