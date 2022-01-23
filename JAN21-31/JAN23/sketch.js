@@ -19,8 +19,8 @@ function setup() {
 function draw() {
   for (let i = 0; i < 24; i++) {
     let x0 = random(width);
-    let vel0 = p5.Vector.fromAngle(3*PI/2 + random(-1, 1)*PI/6, 2.5);
-    let p = new Particle(x0, y0, vel0, 3, [0, random(150, 245), 0]);
+    let vel0 = p5.Vector.fromAngle(3*PI/2 + random(-1, 1)*PI/6, random(2.4, 2.6));
+    let p = new Particle(x0, y0, vel0, random(2.9, 3.1), [random(10), random(100, 200), random(10)]);
     while (p.stillGrowing()) {
       p.update();
       p.draw();
@@ -66,7 +66,7 @@ function Particle(x0, y0, vel0, d0, col) {
 }
 
 function drawRock(x0, y0) {
-  let thetaStep = PI/floor(random(6, 10));
+  let thetaStep = PI/floor(random(7, 11));
   let rw0 = random(50, 100);
   let rh0 = random(50, 100);
   fill(random(245, 255));
