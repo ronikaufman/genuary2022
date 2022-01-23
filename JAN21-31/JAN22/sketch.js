@@ -1,6 +1,6 @@
 /*
 Genuary 2022
-JAN.22 "Combine two (or more) of your pieces from previous days to make a new piece."
+JAN.22 "Make something that will look completely different in a year."
 
 By Roni Kaufman
 https://ronikaufman.github.io

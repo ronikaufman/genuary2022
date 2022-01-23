@@ -113,6 +113,7 @@
 ### JAN.23
 > Abstract vegetation.
 
+<img src="./JAN21-31/JAN23/JAN23_1.png" width="200"/> <img src="./JAN21-31/JAN23/JAN23_2.png" width="200"/> <img src="./JAN21-31/JAN23/JAN23_3.png" width="200"/> <img src="./JAN21-31/JAN23/JAN23_4.png" width="200"/>
 
 ### JAN.24
 > Create your own pseudo-random number generator and visually check the results.
