@@ -128,6 +128,7 @@
 ### JAN.26
 > Airport carpet.
 
+<img src="./JAN21-31/JAN26/JAN26_1.png" width="200"/> <img src="./JAN21-31/JAN26/JAN26_2.png" width="200"/> <img src="./JAN21-31/JAN26/JAN26_3.png" width="200"/> <img src="./JAN21-31/JAN26/JAN26_4.png" width="200"/>
 
 ### JAN.27
 > #2E294E #541388 #F1E9DA #FFD400 #D90368
