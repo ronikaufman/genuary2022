@@ -133,6 +133,7 @@
 ### JAN.27
 > #2E294E #541388 #F1E9DA #FFD400 #D90368
 
+<img src="./JAN21-31/JAN27/JAN27_1.png" width="200"/> <img src="./JAN21-31/JAN27/JAN27_2.png" width="200"/> <img src="./JAN21-31/JAN27/JAN27_3.png" width="200"/> <img src="./JAN21-31/JAN27/JAN27_4.png" width="200"/>
 
 ### JAN.28
 > Self portrait.
