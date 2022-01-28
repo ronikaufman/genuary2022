@@ -138,6 +138,7 @@
 ### JAN.28
 > Self portrait.
 
+<img src="./JAN21-31/JAN28/JAN28_1.png" width="200"/> <img src="./JAN21-31/JAN28/JAN28_2.png" width="200"/> <img src="./JAN21-31/JAN28/JAN28_3.png" width="200"/> <img src="./JAN21-31/JAN28/JAN28_4.png" width="200"/>
 
 ### JAN.29
 > Isometric perspective.
