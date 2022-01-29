@@ -143,6 +143,7 @@
 ### JAN.29
 > Isometric perspective.
 
+<img src="./JAN21-31/JAN29/JAN29_1.png" width="200"/> <img src="./JAN21-31/JAN29/JAN29_2.png" width="200"/> <img src="./JAN21-31/JAN29/JAN29_3.png" width="200"/> <img src="./JAN21-31/JAN29/JAN29_4.png" width="200"/>
 
 ### JAN.30
 > Organic looking output using only rectangular shapes.
