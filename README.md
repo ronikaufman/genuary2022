@@ -148,6 +148,7 @@
 ### JAN.30
 > Organic looking output using only rectangular shapes.
 
+<img src="./JAN21-31/JAN30/JAN30_1.png" width="200"/> <img src="./JAN21-31/JAN30/JAN30_2.png" width="200"/> <img src="./JAN21-31/JAN30/JAN30_3.png" width="200"/> <img src="./JAN21-31/JAN30/JAN30_4.png" width="200"/>
 
 ### JAN.31
 > Negative space.

@@ -13,10 +13,8 @@ function setup() {
 }
 
 function draw() {
-  background(255);
-
   let t = 50;
-  let s = t/sqrt(3)
+  let s = t/sqrt(3);
   let n = 6;
   let colors = shuffle([0, 255, random(["#0863d3", "#f5d216", "#f43809", "#08b233"])]);
   for (let i = -n; i <= n; i++) {
