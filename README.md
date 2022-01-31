@@ -152,3 +152,5 @@
 
 ### JAN.31
 > Negative space.
+
+<img src="./JAN21-31/JAN31/JAN31_1.png" width="200"/> <img src="./JAN21-31/JAN31/JAN31_2.png" width="200"/> <img src="./JAN21-31/JAN31/JAN31_3.png" width="200"/> <img src="./JAN21-31/JAN31/JAN31_4.png" width="200"/>
